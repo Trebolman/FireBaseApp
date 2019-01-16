@@ -1,0 +1,8 @@
+Paquetes instalados:
+npm i tcomb-form-native 
+	fabricar formularios de forma mas facil
+	tambien para hacer validaciones con ellos
+
+View es como un container
+la pantalla de carga de bienvenida "splash"
+
